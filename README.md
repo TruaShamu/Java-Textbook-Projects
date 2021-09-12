@@ -1,4 +1,4 @@
 # Java-Textbook-Projects
 Some small projects from my old java textbook back when I started coding.
 
-Sadly, I can't find the name of the textbook anymore.
+I recall the textbook was this one: https://math.hws.edu/javanotes/ - I'm not really sure, though.
